@@ -1,0 +1,1 @@
+![Images Compared](.guides/img/imgCheatSheet.jpg)

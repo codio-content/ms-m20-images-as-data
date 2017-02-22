@@ -1,0 +1,187 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-877042975",
+  "source": {
+   "name": "ImgQ1",
+   "showName": false,
+   "instructions": "Which type is standard format for most digital cameras?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a9c4d63d-df74-5e60-a0e6-ff7ae3a0b198",
+     "correct": true,
+     "answer": "JPG"
+    },
+    {
+     "_id": "b25731b7-9620-cc97-66a4-46543901cd00",
+     "correct": false,
+     "answer": "GIF"
+    },
+    {
+     "_id": "60d9f2f0-94ab-ea77-df97-2ffdc3310886",
+     "correct": false,
+     "answer": "PNG"
+    },
+    {
+     "_id": "f54315b5-4483-d309-a077-0421d057ac9f",
+     "correct": false,
+     "answer": "TIFF"
+    },
+    {
+     "_id": "7ee1340d-1c6a-901c-c6f3-d13aa0393ae0",
+     "correct": false,
+     "answer": "BMP"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-361785880",
+  "source": {
+   "name": "ImgQ2",
+   "showName": false,
+   "instructions": "Which types can have transparent backgrounds?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "8b41f353-9638-19e9-92a8-9e4890b4224f",
+     "correct": false,
+     "answer": "JPG"
+    },
+    {
+     "_id": "afdf2b63-88af-c9ba-ae6a-430abcaac789",
+     "correct": true,
+     "answer": "GIF"
+    },
+    {
+     "_id": "a9e4d3ff-b588-f0d6-b96c-f88c689b820a",
+     "correct": true,
+     "answer": "PNG"
+    },
+    {
+     "_id": "29096457-a5ff-a38a-8aa3-7861305ac845",
+     "correct": true,
+     "answer": "TIF"
+    },
+    {
+     "_id": "ac0b87f7-29f1-5a50-0764-e875c76773ae",
+     "correct": true,
+     "answer": "BMP"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3680385347",
+  "source": {
+   "name": "ImgQ3",
+   "showName": false,
+   "instructions": "Which type is best for the web because its max is 256 colors?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d7202ecb-ba7b-99f3-996b-87a4d253f36c",
+     "correct": false,
+     "answer": "JPG"
+    },
+    {
+     "_id": "97e3d3f2-4424-b40b-4c0e-cb28550d9b1d",
+     "correct": true,
+     "answer": "GIF"
+    },
+    {
+     "_id": "d604ff2a-d5d7-f6b1-403e-c6c11c9595a2",
+     "correct": false,
+     "answer": "PNG"
+    },
+    {
+     "_id": "cd92bca9-3dc0-31c1-f43d-627b22286b8c",
+     "correct": false,
+     "answer": "TIF"
+    },
+    {
+     "_id": "fa14edee-db4f-76fa-34a9-1ad394857778",
+     "correct": false,
+     "answer": "BMP"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-538147734",
+  "source": {
+   "name": "ImgQ4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Digital images are made up of millions of tiny <<<pixels>>>.",
+   "tokens": {
+    "blank": [
+     "pixels"
+    ],
+    "text": [
+     "Digital images are made up of millions of tiny ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2449959242",
+  "source": {
+   "name": "ImgQ5",
+   "showName": false,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "A digital image of higher quality will have <<<more>>> pixels as compared to a lower quality image with <<<less>>> pixels.",
+   "tokens": {
+    "blank": [
+     "more",
+     "less"
+    ],
+    "text": [
+     "A digital image of higher quality will have ",
+     0,
+     " pixels as compared to a lower quality image with ",
+     0,
+     " pixels."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4058128815",
+  "source": {
+   "name": "ImgQ6",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The quality of a digital image depends on the number of pixels used to create that image. This can also be referred to as <<<resolution>>>",
+   "tokens": {
+    "blank": [
+     "resolution"
+    ],
+    "text": [
+     "The quality of a digital image depends on the number of pixels used to create that image. This can also be referred to as ",
+     0
+    ]
+   }
+  }
+ }
+]
